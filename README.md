@@ -4,7 +4,7 @@
 
 The owners of a custom home under construction had a stack of plan sheets and a few finish samples to go on. Flat drawings make it hard to picture a vaulted great room with exposed beams, or to choose a countertop without seeing it next to the cabinets. So I built a walkthrough: stand in the kitchen, look around in 360 degrees, and flip between finish options to see the room change.
 
-This repo is the engineering writeup. The owners, the location and the plan sheets stay private, so it contains only my own renders and no source documents.
+This repo is the engineering writeup. It includes rendered images only, not the plan sheets or full source code.
 
 ![Kitchen render](docs/kitchen.jpg)
 
